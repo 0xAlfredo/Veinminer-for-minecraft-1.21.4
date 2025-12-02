@@ -1,0 +1,7 @@
+name: VeinMiner
+version: 1.0
+main: com.example.veinminer.VeinMiner
+api-version: 1.21
+permissions:
+  veinminer.use:
+    default: true
